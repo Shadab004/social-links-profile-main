@@ -73,6 +73,9 @@ body{
     align-items: center;
     
 }
+.links:active{
+    text-decoration: none;
+}
 
 button{
     background-color: hsl(0, 0%, 20%);
